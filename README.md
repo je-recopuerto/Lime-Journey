@@ -160,4 +160,5 @@ Whether you're fixing bugs, improving documentation, or proposing new features, 
 
 ## 📄 License
 
+
 Distributed under the [AGPLv3 License](https://github.com/LimeJourney/limeJourney/blob/main/LICENSE). See `LICENSE` for more information.
